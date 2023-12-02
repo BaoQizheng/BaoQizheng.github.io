@@ -237,3 +237,7 @@
 		position:fixed;
 		bottom:10px;
 	}
+	#centered-link {
+		display: block;
+		text-align: center;
+	}
